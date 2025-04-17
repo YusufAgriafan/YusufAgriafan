@@ -10,7 +10,7 @@ def txt3(a, b):
         st.markdown(b)
 
 with col_photo:
-    st.image("assets/foto1.jpg")
+    st.image("assets/foto1.png")
 
 with col_about:
     st.title("Yusuf Agung Rizky Afandi")
