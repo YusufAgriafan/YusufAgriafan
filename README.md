@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-A passionate Informatics Engineering student specializing in Data Science and Full Stack Development.
+Hello! I'm Yusuf Agung Rizky Afandi, an Informatics Engineering student in the Bachelor of Informatics Engineering program at the State University of Malang. I'm deeply interested in data science and full stack web development. Actively involved in tech communities, competitions, and projects, I'm continuously sharpening both my technical and leadership skills through hands-on experiences and structured training programs.
 
 ## 🌐 Socials:
 
@@ -12,9 +12,9 @@ A passionate Informatics Engineering student specializing in Data Science and Fu
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YusufAgriafan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)`<br/>`
-![](https://nirzak-streak-stats.vercel.app/?user=YusufAgriafan&theme=dark&hide_border=false)`<br/>`
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAgriafan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![img](https://github-readme-stats.vercel.app/api?username=YusufAgriafan&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![img](https://nirzak-streak-stats.vercel.app/?user=YusufAgriafan&theme=dark&hide_border=false)
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAgriafan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
